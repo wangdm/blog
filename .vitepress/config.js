@@ -8,7 +8,7 @@ export default {
     cleanUrls: 'without-subfolders',
 
     srcDir: './content',
-    outDir: './public',
+    // outDir: './public',
 
     themeConfig: {
         logo: '/logo.svg',
